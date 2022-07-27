@@ -1,0 +1,12 @@
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\bin\Debug\net6.0\MyTestLibrary.deps.json
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\bin\Debug\net6.0\MyTestLibrary.dll
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\bin\Debug\net6.0\MyTestLibrary.pdb
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\obj\Debug\net6.0\MyTestLibrary.csproj.AssemblyReference.cache
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\obj\Debug\net6.0\MyTestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\obj\Debug\net6.0\MyTestLibrary.AssemblyInfoInputs.cache
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\obj\Debug\net6.0\MyTestLibrary.AssemblyInfo.cs
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\obj\Debug\net6.0\MyTestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\obj\Debug\net6.0\MyTestLibrary.dll
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\obj\Debug\net6.0\refint\MyTestLibrary.dll
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\obj\Debug\net6.0\MyTestLibrary.pdb
+C:\Users\aitug\OneDrive\Рабочий стол\Development\Programs\MyTestLibrary\obj\Debug\net6.0\ref\MyTestLibrary.dll
